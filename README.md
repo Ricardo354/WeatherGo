@@ -33,5 +33,14 @@
 
    - Crie uma conta no [weatherapi.com](https://www.weatherapi.com)
    - Em seguida, adicione sua chave de API ao .env
-   
+
+## ⚡ Uso
+
+Após a instalação, você pode usar o **WeatherGo** diretamente na linha de comando para consultar o clima de qualquer cidade. 
+
+### Exemplo
+
+```bash
+./Weather "<nome_do_lugar / (lat,long)>"
+
 
