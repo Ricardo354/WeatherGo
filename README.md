@@ -31,7 +31,7 @@
 
 3. **Obtenha a chave da API**:
 
-   - **Crie uma conta no [weatherapi.com](https://www.weatherapi.com)**
-   - **Em seguida, adicione sua chave de API ao .env**
+   - Crie uma conta no [weatherapi.com](https://www.weatherapi.com)**
+   - Em seguida, adicione sua chave de API ao .env**
    
 
